@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkins", "HelloJenkin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkins.Tests", "HelloJenkins.Tests\HelloJenkins.Tests.csproj", "{BA634246-5CCA-4FD5-8AB7-4A8E77E47006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkins.MSTests", "MSTestsClassProject\HelloJenkins.MSTests.csproj", "{D0CE8A96-33FA-432E-BC08-059AE4AAC31A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkins.MSTests", "HelloJenkins.MSTests\HelloJenkins.MSTests.csproj", "{D0CE8A96-33FA-432E-BC08-059AE4AAC31A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
