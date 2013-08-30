@@ -15,7 +15,6 @@ namespace HelloJenkins.Tests {
         //}
 
         [Test]
-        [Ignore]
         public void SomeFailingTestMadeItPassNow() {
             Assert.Less(5, 7);
         }
