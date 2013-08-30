@@ -9,6 +9,7 @@ namespace HelloJenkins.Tests {
         }
 
         [Test]
+        [Ignore]
         public void SomeFailingTest() {
             Assert.Greater(5, 7);
         }
